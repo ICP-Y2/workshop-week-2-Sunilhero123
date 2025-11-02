@@ -119,9 +119,10 @@ Complete the provided circuit and verify Voltage divider Rule. Set 10 in Voltage
    
 `Voltage Value Calculate together with Resistance Value with R2:`
 
-a.	R2: ________________ V: _____________    Measured Voltage: ________________
 
-b.	R2: ________________ V: _____________    Measured Voltage: ________________
+a.	R2: _______1.4_________ V: ______1mv_______    Measured Voltage: _____583___________
 
-c.	R2: ________________ V: _____________    Measured Voltage: ________________
+b.	R2: ________1.5________ V: ______2mv_______    Measured Voltage: ______1.2__________
+
+c.	R2: ________2________ V: ______1mv_______    Measured Voltage: ________667mv________
 
